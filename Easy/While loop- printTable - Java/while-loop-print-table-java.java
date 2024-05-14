@@ -49,7 +49,8 @@ class Geeks {
                multiplier--;
                
             }
-            System.out.println();
+             System.out.println();
+         
             
     
 	 }
